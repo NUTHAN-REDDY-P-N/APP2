@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608591321767",
+    "project_id": "chatter-app-7-f",
+    "storage_bucket": "chatter-app-7-f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608591321767:android:347ace31a40d52e1849982",
+        "android_client_info": {
+          "package_name": "com.learners.chatterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaMpPzgeGN9WZy_ojmqrdmlivC0MLF3bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
